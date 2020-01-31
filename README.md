@@ -64,4 +64,4 @@ pip install -r requirements.txt
     ```
 
 #### Finally
-Simply run `deactiave` to end the python virtual environment.
+Simply run `deactivate` to end the python virtual environment.
